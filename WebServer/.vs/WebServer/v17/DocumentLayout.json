@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repo\\WebServer\\WebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE1F5F8-3249-4C84-B192-9F1E0AC0FEDA}|WebServer\\WebServer.csproj|d:\\repo\\webserver\\webserver\\webserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE1F5F8-3249-4C84-B192-9F1E0AC0FEDA}|WebServer\\WebServer.csproj|solutionrelative:webserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D047CEDF-9D03-406E-AB72-7920C2AA9F2A}|ConsoleWebServer\\ConsoleWebServer.csproj|d:\\repo\\webserver\\webserver\\consolewebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D047CEDF-9D03-406E-AB72-7920C2AA9F2A}|ConsoleWebServer\\ConsoleWebServer.csproj|solutionrelative:consolewebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\repo\\WebServer\\WebServer\\WebServer\\Server.cs",
+              "RelativeDocumentMoniker": "WebServer\\Server.cs",
+              "ToolTip": "D:\\repo\\WebServer\\WebServer\\WebServer\\Server.cs",
+              "RelativeToolTip": "WebServer\\Server.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:57:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repo\\WebServer\\WebServer\\ConsoleWebServer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleWebServer\\Program.cs",
+              "ToolTip": "D:\\repo\\WebServer\\WebServer\\ConsoleWebServer\\Program.cs",
+              "RelativeToolTip": "ConsoleWebServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:47:47.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
